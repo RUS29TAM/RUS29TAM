@@ -30,9 +30,9 @@ chore: readme
 
 <div>
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react">
-        <img align="left" height="130" style="width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react" />
+        <img align="left" height="130" style="width: 320px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react" />
       </a><a href="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react">
-        <img align="left" height="130" style="width: 350px;" src="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react" />
+        <img align="left" height="130" style="width: 370px;" src="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react" />
    </a>
 </div>
 <!-- 
