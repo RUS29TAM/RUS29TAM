@@ -3,7 +3,7 @@
 ![0_о](https://komarev.com/ghpvc/?username=RUS29TAM)    
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RUS29TAM)](https://github.com/anuraghazra/github-readme-stats)   -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RUS29TAM&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RUS29TAM&repo=github-readme-stats)](https://github.com/RUS29TAM/github-readme-stats)
 
 
 
