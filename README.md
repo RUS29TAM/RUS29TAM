@@ -1,4 +1,5 @@
-### Hi there 👋     ![](https://komarev.com/ghpvc/?username=RUS29TAM)
+### ![Hi there 👋!](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif)
+[](https://komarev.com/ghpvc/?username=RUS29TAM)
 
 <!--
 **RUS29TAM/RUS29TAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
