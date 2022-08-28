@@ -5,8 +5,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)    
 ![0_о](https://komarev.com/ghpvc/?username=RUS29TAM)    
 
-![](https://techcrunch.com/wp-content/uploads/2019/03/final-gif.gif?w=1390&crop=1)
-
 <!--
 **RUS29TAM/RUS29TAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
