@@ -6,10 +6,10 @@ chore: readme
 
 <code>
 
-<img width="25" height="25" src="./icons/tech/bem.svg" alt="bem">
 <img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">
 <img width="25" height="25" src="./icons/tech/css.svg" alt="css">
 <img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">
+<img width="25" height="25" src="./icons/tech/bem.svg" alt="bem">
 <img width="25" height="25" src="./icons/tech/git.svg" alt="git">
 <img width="25" height="25" src="./icons/tech/sass.svg" alt="sass">
 <img width="25" height="25" src="./icons/tech/figma.svg" alt="figma">
