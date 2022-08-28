@@ -17,7 +17,7 @@ chore: readme
 <img width="25" height="25" src="./icons/tech/github.svg" alt="github">
 <img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
 <img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc">
-</code>
+</code>    
 
 **IDE:**  
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
