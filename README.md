@@ -2,7 +2,7 @@
 chore: readme
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Привет,заходи.Я+RUS+студент+WEB+plus+👋!)](https://git.io/typing-svg)  
-⚙️ > **Стек который я грызу:**
+> ⚙️ **Стек который я грызу:**
 
 <code>
 
@@ -26,7 +26,7 @@ chore: readme
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-☎ > **Мои контакты:** 
+> ☎ **Мои контакты:** 
 [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM) 
 [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com) 
 [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/) 
