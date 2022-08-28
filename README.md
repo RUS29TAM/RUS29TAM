@@ -3,7 +3,7 @@ chore: readme
 -->
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Hi,come+in.I+am+RUS+student+WEB+plus👋!)](https://git.io/typing-svg)   -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%e1fd2c&lines=Hi+bro👋,+come+in!;I+am+RUS+student+WEB+plus+yandex+practicum.)](https://git.io/typing-svg)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%e1fd2c&lines=👋+Hi+bro,+come+in!;I+am+RUS+student+WEB+plus+yandex+practicum.)](https://git.io/typing-svg)    
 
 ⚙️ **Стек который я грызу:**
 
