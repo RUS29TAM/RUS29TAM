@@ -19,24 +19,7 @@ chore: readme
 **OS**   
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-<code>
-<img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">
-<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">
-<img width="25" height="25" src="./icons/tech/css.svg" alt="css">
-<img width="25" height="25" src="./icons/tech/sass.svg" alt="sass">
-<img width="25" height="25" src="./icons/tech/git.svg" alt="git">    
-<img width="25" height="25" src="./icons/tech/bem.svg" alt="bem">
-<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">
-<img width="25" height="25" src="./icons/tech/figma.svg" alt="figma">
-<img width="25" height="25" src="./icons/tech/github.svg" alt="github">
-<img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
-<img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc">
-</code>     -->
+
 ☎ **Мои контакты:**    
 
 <code>
@@ -45,7 +28,6 @@ chore: readme
 [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/ ) 
 [<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232 ) 
 </code>
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)    
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUS29TAM&theme=solarized_dark)    
@@ -65,4 +47,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+<code>
+<img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">
+<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">
+<img width="25" height="25" src="./icons/tech/css.svg" alt="css">
+<img width="25" height="25" src="./icons/tech/sass.svg" alt="sass">
+<img width="25" height="25" src="./icons/tech/git.svg" alt="git">    
+<img width="25" height="25" src="./icons/tech/bem.svg" alt="bem">
+<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">
+<img width="25" height="25" src="./icons/tech/figma.svg" alt="figma">
+<img width="25" height="25" src="./icons/tech/github.svg" alt="github">
+<img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
+<img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc">
+</code>  
 -->
