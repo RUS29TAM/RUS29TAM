@@ -27,12 +27,13 @@ chore: readme
 > [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM)
 > [<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232)
 > [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com)
+
 <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react" />
-  </a><a href="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react" />
-  </a>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react">
+        <img align="left" height="130" style="width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react" />
+      </a><a href="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react">
+        <img align="left" height="130" style="width: 350px;" src="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react" />
+   </a>
 </div>
 <!-- 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)   -->
