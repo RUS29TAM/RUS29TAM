@@ -33,7 +33,21 @@ chore: readme
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)  
 ![0_о](https://komarev.com/ghpvc/?username=RUS29TAM)
 
-[<img src="./icons/tech/new.svg">]
+<div>
+ <a href="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react">
+ <img align="left" высота="130" стиль="правое поле: 10 пикселей" src="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react " />
+ </a>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react">
+ <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react " />
+ </a>
+</div>
+
+<div>
+ <a href="https://www.codewars.com/users/RUS29TAM/badges/large " цель="_blank">
+ <img src="https://www.codewars.com/users/RUS29TAM/badges/large " alt="Codewars"/>
+ </a>
+</div>
+
 <!--
 **RUS29TAM/RUS29TAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
