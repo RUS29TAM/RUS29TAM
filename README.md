@@ -3,10 +3,8 @@
 ![0_о](https://komarev.com/ghpvc/?username=RUS29TAM)    
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)    
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)    
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)    
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUS29TAM&theme=solarized_dark)    
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUS29TAM&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)    
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUS29TAM&theme=solarized_dark)
 
 
 
