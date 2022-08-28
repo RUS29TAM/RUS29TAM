@@ -1,6 +1,6 @@
 TAM<!-- ![Привет](https://media1.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif?cid=790b7611de029813e7755f93b988cc32a1f523ea712b7a8b&rid=giphy.gif&ct=g)     -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Привет,заходи.Я+RUS+студент+WEB+plus+👋!)](https://git.io/typing-svg)    
-⚙️ **Стек над которым я сейчас работаю:**    
+⚙️ **Стек который я грызу:**    
 
 <code>
 <img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">
@@ -17,10 +17,10 @@ TAM<!-- ![Привет](https://media1.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.
 </code>    
 
 **Мои контакты:**    
-[<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM )
-[<img src="./icons/contacts/gmail.svg" ширина ="25 пикселей" высота ="25 пикселей">](mailto:g9212922232@gmail.com )
-[<img src="./icons/contacts/discord.svg" ширина ="25 пикселей" высота ="25 пикселей">](https://discordapp.com/users/375374301362257920/ )
-[<img src="./icons/contacts/whatsup.svg" ширина ="25 пикселей" высота ="25 пикселей">](tel:+79212922232 )
+[<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM ) 
+[<img src="./icons/contacts/gmail.svg" ширина ="25 пикселей" высота ="25 пикселей">](mailto:g9212922232@gmail.com ) 
+[<img src="./icons/contacts/discord.svg" ширина ="25 пикселей" высота ="25 пикселей">](https://discordapp.com/users/375374301362257920/ ) 
+[<img src="./icons/contacts/whatsup.svg" ширина ="25 пикселей" высота ="25 пикселей">](tel:+79212922232 ) 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)    
