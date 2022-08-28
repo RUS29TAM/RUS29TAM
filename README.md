@@ -1,6 +1,7 @@
 <!-- ![Привет](https://media1.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif?cid=790b7611de029813e7755f93b988cc32a1f523ea712b7a8b&rid=giphy.gif&ct=g)
 chore: readme
 -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Привет,заходи.Я+RUS+студент+WEB+plus+👋!)](https://git.io/typing-svg)  
 ⚙️ **Стек который я грызу:**
 
@@ -17,16 +18,15 @@ chore: readme
 <img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">
 <!-- <img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
 <img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc"> -->
-</code>    
+</code>
 
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-> ☎ **Мои контакты:**    
-[<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/) 
-[<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM) 
-[<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232) 
-[<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com) 
-
+> ☎ **Мои контакты:**  
+> [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/)
+> [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM)
+> [<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232)
+> [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUS29TAM&theme=solarized_dark)  
@@ -34,18 +34,18 @@ chore: readme
 ![0_о](https://komarev.com/ghpvc/?username=RUS29TAM)
 
 <div>
- <a href="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react">
- <img align="left" высота="130" стиль="правое поле: 10 пикселей" src="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react " />
- </a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react">
- <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react " />
- </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react">
+    <img align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react" />
+  </a>
 </div>
 
 <div>
- <a href="https://www.codewars.com/users/RUS29TAM/badges/large " цель="_blank">
- <img src="https://www.codewars.com/users/RUS29TAM/badges/large " alt="Codewars"/>
- </a>
+  <a href="https://www.codewars.com/users/RUS29TAM/badges/large" target="_blank">
+    <img src="https://www.codewars.com/users/RUS29TAM/badges/large" alt="Codewars"/>
+  </a>
 </div>
 
 <!--
