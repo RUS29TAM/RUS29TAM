@@ -33,6 +33,7 @@ chore: readme
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)  
 ![0_о](https://komarev.com/ghpvc/?username=RUS29TAM)
 
+[<img src="./icons/tech/new.svg">]
 <!--
 **RUS29TAM/RUS29TAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
