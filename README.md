@@ -2,7 +2,7 @@ TAM<!-- ![Привет](https://media1.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Привет,заходи.Я+RUS+студент+WEB+plus+👋!)](https://git.io/typing-svg)    
 ⚙️ **Стек над которым я сейчас работаю:**    
 
-<код>
+<code>
 <img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">
 <img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">
 <img width="25" height="25" src="./icons/tech/css.svg" alt="css">
