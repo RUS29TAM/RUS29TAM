@@ -6,17 +6,17 @@ chore: readme
 
 <code>
 
-<img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">
+<img width="25" height="25" src="./icons/tech/bem.svg" alt="bem">
 <img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">
 <img width="25" height="25" src="./icons/tech/css.svg" alt="css">
+<img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">
+<img width="25" height="25" src="./icons/tech/git.svg" alt="git">
 <img width="25" height="25" src="./icons/tech/sass.svg" alt="sass">
-<img width="25" height="25" src="./icons/tech/git.svg" alt="git">    
-<img width="25" height="25" src="./icons/tech/bem.svg" alt="bem">
-<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">
 <img width="25" height="25" src="./icons/tech/figma.svg" alt="figma">
 <img width="25" height="25" src="./icons/tech/github.svg" alt="github">
-<img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
-<img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc">
+<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">
+<!-- <img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
+<img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc"> -->
 </code>    
 
 **IDE:**  
@@ -26,13 +26,14 @@ chore: readme
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-☎ **Мои контакты:**
+☎ **Мои контакты:**    
+
 <code>
-    
+
 [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM) 
 [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com) 
 [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/) 
-[<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232) 
+[<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](tel:+79212922232) 
 </code>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)  
