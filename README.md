@@ -2,7 +2,7 @@
 chore: readme
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Привет,заходи.Я+RUS+студент+WEB+plus+👋!)](https://git.io/typing-svg)  
-⚙️ **Стек который я грызу:**
+⚙️ > **Стек который я грызу:**
 
 <code>
 
@@ -19,22 +19,19 @@ chore: readme
 <img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc"> -->
 </code>    
 
-**IDE:**  
+> **IDE:**  
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)    
-**OS**  
+> **OS**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-☎ **Мои контакты:**    
-
-<code>
-
+☎ > **Мои контакты:** 
 [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM) 
 [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com) 
 [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/) 
-[<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](tel:+79212922232) 
-</code>
+[<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232) 
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUS29TAM&theme=solarized_dark)  
