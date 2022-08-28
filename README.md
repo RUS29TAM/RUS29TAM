@@ -5,6 +5,7 @@ chore: readme
 ⚙️ **Стек который я грызу:**
 
 <code>
+
 <img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">
 <img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">
 <img width="25" height="25" src="./icons/tech/css.svg" alt="css">
@@ -33,7 +34,6 @@ chore: readme
 [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com) 
 [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/) 
 [<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232) 
-
 </code>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)  
