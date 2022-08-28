@@ -1,5 +1,5 @@
 ### Hi there 👋!
-![Привет]([https://i.gifer.com/fyU.mp4](https://i.gifer.com/RhNN.gif))
+![Привет](https://media1.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif?cid=790b7611de029813e7755f93b988cc32a1f523ea712b7a8b&rid=giphy.gif&ct=g)
 [](https://komarev.com/ghpvc/?username=RUS29TAM)
 
 <!--
