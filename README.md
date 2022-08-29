@@ -1,8 +1,3 @@
-<!-- ![Привет](https://media1.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif?cid=790b7611de029813e7755f93b988cc32a1f523ea712b7a8b&rid=giphy.gif&ct=g)
-chore: readme 
--->
-<!-- > [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%e1fd2c&lines=👋+Hi+bro,+come+in!;I+am+RUS+student+WEB+plus+yandex+practicum.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Hi,come+in.I+am+RUS+student+WEB+plus👋!)](https://git.io/typing-svg)   -->
 > [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1500&pause=700&color=6816FF&background=49DEFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+student+faculty+Web%2B+of+the+Yandex+Practicum;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)    
 > 
 > ⚙️ **Stack I'm gnawing on:**    
@@ -26,7 +21,7 @@ chore: readme
 > [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/)
 > [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM)
 > [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com)
-<!-- > [<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232) -->
+<!-- > [<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">] -->
 
 <div>
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react">
