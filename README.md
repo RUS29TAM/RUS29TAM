@@ -25,8 +25,8 @@ chore: readme
 > ☎ **My contacts:**  
 > [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/)
 > [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM)
-> [<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232)
 > [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com)
+<!-- > [<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232) -->
 
 <div>
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RUS29TAM&layout=compact&theme=react">
