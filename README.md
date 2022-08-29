@@ -5,7 +5,7 @@ chore: readme
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Hi,come+in.I+am+RUS+student+WEB+plus👋!)](https://git.io/typing-svg)   -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%e1fd2c&lines=👋+Hi+bro,+come+in!;I+am+RUS+student+WEB+plus+yandex+practicum.)](https://git.io/typing-svg)    
 
-⚙️ **Стек который я грызу:**
+⚙️ **Stack I'm gnawing on:**
 
 <code>
 
@@ -24,7 +24,7 @@ chore: readme
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)![Windows](https://img.shields.io/badge/Windows-35358d?style=for-the-badge&logo=windows&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 
-> ☎ **Мои контакты:**  
+> ☎ **My contacts:**  
 > [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/)
 > [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM)
 > [<img src="./icons/contacts/whatsup.svg" width="25px" height="25px">](phone:+79212922232)
