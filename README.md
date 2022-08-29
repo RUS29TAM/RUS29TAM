@@ -43,7 +43,7 @@ chore: readme
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)  
 ![0_о](https://komarev.com/ghpvc/?username=RUS29TAM)
 
-![Metrics](https://metrics.lecoq.io/RUS29TAM?template=classic&fortune=1&pagespeed=1&nightscout=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&fortune=false&nightscout=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Europe%2FMoscow)
+![Metrics](https://metrics.lecoq.io/RUS29TAM?template=classic&base.header=0&habits=1&followup=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&fortune=false&config.timezone=Europe%2FMoscow)
 <!-- <div>
   <a href="https://www.codewars.com/users/RUS29TAM/badges/large" target="_blank">
     <img src="https://www.codewars.com/users/RUS29TAM/badges/large" alt="Codewars"/>
