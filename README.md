@@ -5,24 +5,21 @@ chore: readme
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Hi,come+in.I+am+RUS+student+WEB+plus👋!)](https://git.io/typing-svg)   -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%e1fd2c&lines=👋+Hi+bro,+come+in!;I+am+RUS+student+WEB+plus+yandex+practicum.)](https://git.io/typing-svg)    
 
-⚙️ **Stack I'm gnawing on:**
-
-<code>
-
-[<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">](https://html5book.ru/)
-[<img width="25" height="25" src="./icons/tech/css.svg" alt="css">](https://html5css.ru/)
-[<img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">](https://www.javascript.com/)
-[<img width="25" height="25" src="./icons/tech/bem.svg" alt="bem">](https://ru.bem.info/)
-[<img width="25" height="25" src="./icons/tech/git.svg" alt="git">](https://git-scm.com/)
-[<img width="25" height="25" src="./icons/tech/sass.svg" alt="sass">](https://sass-lang.com/)
-[<img width="25" height="25" src="./icons/tech/figma.svg" alt="figma">](https://www.figma.com/)
-[<img width="25" height="25" src="./icons/tech/github.svg" alt="github">](https://github.com/)
-[<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">](https://autoprefixer.github.io/)
+> ⚙️ **Stack I'm gnawing on:**
+> [<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">](https://html5book.ru/)
+> [<img width="25" height="25" src="./icons/tech/css.svg" alt="css">](https://html5css.ru/)
+> [<img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">](https://www.javascript.com/)
+> [<img width="25" height="25" src="./icons/tech/bem.svg" alt="bem">](https://ru.bem.info/)
+> [<img width="25" height="25" src="./icons/tech/git.svg" alt="git">](https://git-scm.com/)
+> [<img width="25" height="25" src="./icons/tech/sass.svg" alt="sass">](https://sass-lang.com/)
+> [<img width="25" height="25" src="./icons/tech/figma.svg" alt="figma">](https://www.figma.com/)
+> [<img width="25" height="25" src="./icons/tech/github.svg" alt="github">](https://github.com/)
+> [<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">](https://autoprefixer.github.io/)
 <!-- <img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
 <img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc"> -->
-</code>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)![Windows](https://img.shields.io/badge/Windows-35358d?style=for-the-badge&logo=windows&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+
+> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)![Windows](https://img.shields.io/badge/Windows-35358d?style=for-the-badge&logo=windows&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 
 > ☎ **My contacts:**  
 > [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/)
