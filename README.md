@@ -9,15 +9,15 @@ chore: readme
 
 <code>
 
-<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">
-<img width="25" height="25" src="./icons/tech/css.svg" alt="css">
-<img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">
-<img width="25" height="25" src="./icons/tech/bem.svg" alt="bem">
-<img width="25" height="25" src="./icons/tech/git.svg" alt="git">
-<img width="25" height="25" src="./icons/tech/sass.svg" alt="sass">
-<img width="25" height="25" src="./icons/tech/figma.svg" alt="figma">
-<img width="25" height="25" src="./icons/tech/github.svg" alt="github">
-<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">
+[<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">](https://html5book.ru/)
+[<img width="25" height="25" src="./icons/tech/css.svg" alt="css">](https://html5css.ru/)
+[<img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">](https://www.javascript.com/)
+[<img width="25" height="25" src="./icons/tech/bem.svg" alt="bem">](https://ru.bem.info/)
+[<img width="25" height="25" src="./icons/tech/git.svg" alt="git">](https://git-scm.com/)
+[<img width="25" height="25" src="./icons/tech/sass.svg" alt="sass">](https://sass-lang.com/)
+[<img width="25" height="25" src="./icons/tech/figma.svg" alt="figma">](https://www.figma.com/)
+[<img width="25" height="25" src="./icons/tech/github.svg" alt="github">](https://github.com/)
+[<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">](https://autoprefixer.github.io/)
 <!-- <img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
 <img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc"> -->
 </code>
