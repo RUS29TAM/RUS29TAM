@@ -1,9 +1,9 @@
 <!-- ![Привет](https://media1.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif?cid=790b7611de029813e7755f93b988cc32a1f523ea712b7a8b&rid=giphy.gif&ct=g)
-chore: readme
+chore: readme 
 -->
-<!-- 
+<!-- > [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%e1fd2c&lines=👋+Hi+bro,+come+in!;I+am+RUS+student+WEB+plus+yandex+practicum.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Hi,come+in.I+am+RUS+student+WEB+plus👋!)](https://git.io/typing-svg)   -->
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%e1fd2c&lines=👋+Hi+bro,+come+in!;I+am+RUS+student+WEB+plus+yandex+practicum.)](https://git.io/typing-svg)    
+> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=6816FF&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+student+faculty+Web%2B+of+the+Yandex+Practicum;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)    
 > 
 > ⚙️ **Stack I'm gnawing on:**    
 > 
@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 visual data generator - https://metrics.lecoq.io/embed
+a running line generator https://readme-typing-svg.herokuapp.com/demo/
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
