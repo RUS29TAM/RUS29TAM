@@ -3,7 +3,7 @@ chore: readme
 -->
 <!-- > [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%e1fd2c&lines=👋+Hi+bro,+come+in!;I+am+RUS+student+WEB+plus+yandex+practicum.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Hi,come+in.I+am+RUS+student+WEB+plus👋!)](https://git.io/typing-svg)   -->
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=6816FF&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+student+faculty+Web%2B+of+the+Yandex+Practicum;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)    
+> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1500&pause=700&color=6816FF&background=49DEFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+student+faculty+Web%2B+of+the+Yandex+Practicum;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)    
 > 
 > ⚙️ **Stack I'm gnawing on:**    
 > 
