@@ -5,7 +5,8 @@ chore: readme
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e1fd2c&lines=Hi,come+in.I+am+RUS+student+WEB+plus👋!)](https://git.io/typing-svg)   -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%e1fd2c&lines=👋+Hi+bro,+come+in!;I+am+RUS+student+WEB+plus+yandex+practicum.)](https://git.io/typing-svg)    
 
-> ⚙️ **Stack I'm gnawing on:**
+> ⚙️ **Stack I'm gnawing on:**    
+> 
 > [<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">](https://html5book.ru/)
 > [<img width="25" height="25" src="./icons/tech/css.svg" alt="css">](https://html5css.ru/)
 > [<img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">](https://www.javascript.com/)
