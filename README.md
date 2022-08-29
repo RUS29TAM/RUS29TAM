@@ -18,10 +18,10 @@ chore: readme
 > [<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">](https://autoprefixer.github.io/)
 <!-- <img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
 <img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc"> -->
-
-
+>
+>
 > ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)![Windows](https://img.shields.io/badge/Windows-35358d?style=for-the-badge&logo=windows&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
-
+>
 > ☎ **My contacts:**  
 > [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/)
 > [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM)
