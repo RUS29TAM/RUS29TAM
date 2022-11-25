@@ -13,6 +13,9 @@
 > [<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">](https://autoprefixer.github.io/)
 > [<img width="25" height="25" src="./icons/tech/nodedotjs.svg" alt="nodejs">](https://nodejs.org/ru/)
 > [<img width="25" height="25" src="./icons/tech/webpack.svg" alt="webpack">](https://webpack.js.org/)
+> [<img width="25" height="25" src="./icons/tech/react.svg" alt="react">](https://reactjs.org/)
+
+https://simpleicons.org/icons/react.svg
 
 > <!-- <img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
 > <img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc"> -->
