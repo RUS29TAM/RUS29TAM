@@ -10,12 +10,12 @@
 > [<img width="25" height="25" src="./icons/tech/sass.svg" alt="sass">](https://sass-lang.com/)
 > [<img width="25" height="25" src="./icons/tech/figma.svg" alt="figma">](https://www.figma.com/)
 > [<img width="25" height="25" src="./icons/tech/github.svg" alt="github">](https://github.com/)
-> [<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">](https://autoprefixer.github.io/)
 > [<img width="25" height="25" src="./icons/tech/nodedotjs.svg" alt="nodejs">](https://nodejs.org/ru/)
 > [<img width="25" height="25" src="./icons/tech/webpack.svg" alt="webpack">](https://webpack.js.org/)
 > [<img width="25" height="25" src="./icons/tech/react.svg" alt="react">](https://reactjs.org/)
 
 [//]: # (> [<img width="25" height="25" src="./icons/tech/redux.svg" alt="redux">]&#40;https://redux.js.org/&#41;)
+[//]: # (> [<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">]&#40;https://autoprefixer.github.io/&#41;)
 
 > <!-- <img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
 > <img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc"> -->
