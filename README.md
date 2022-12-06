@@ -20,6 +20,7 @@
 ```diff
 + this text is highlighted in green
 - this text is highlighted in red
++ LightSkyBlue
 ```
 
 > <!-- <img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
