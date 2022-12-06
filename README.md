@@ -1,6 +1,6 @@
 > [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1500&pause=700&color=6816FF&background=49DEFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+student+faculty+Web%2B+of+the+Yandex+Practicum;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)    
 > 
-> ⚙️ **Stack I'm gnawing on:**    
+> <span style="color:#08e8de; font-size: 25px; text-shadow: #08e8de 1px 0 10px; ">⚙️ **Stack I'm gnawing on:**</span>    
 > 
 > [<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">](https://html5book.ru/)
 > [<img width="25" height="25" src="./icons/tech/css.svg" alt="css">](https://html5css.ru/)
