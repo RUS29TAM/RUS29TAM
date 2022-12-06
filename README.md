@@ -17,12 +17,6 @@
 [//]: # (> [<img width="25" height="25" src="./icons/tech/redux.svg" alt="redux">]&#40;https://redux.js.org/&#41;)
 [//]: # (> [<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">]&#40;https://autoprefixer.github.io/&#41;)
 
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-+ LightSkyBlue
-```
-
 > <!-- <img width="25" height="25" src="./icons/tech/ws.svg" alt="ws">
 > <img width="25" height="25" src="./icons/tech/vsc.svg" alt="vsc"> -->
 >
