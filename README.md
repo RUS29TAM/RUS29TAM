@@ -1,7 +1,7 @@
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1500&pause=700&color=6816FF&background=49DEFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+student+faculty+Web%2B+of+the+Yandex+Practicum;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)    
-> 
-> ⚙️ **Stack I'm gnawing on:**    
-> 
+> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1500&pause=700&color=6816FF&background=49DEFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+student+faculty+Web%2B+of+the+Yandex+Practicum;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)
+>
+> ⚙️ **Stack I'm gnawing on:**
+>
 > [<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">](https://html5book.ru/)
 > [<img width="25" height="25" src="./icons/tech/css.svg" alt="css">](https://html5css.ru/)
 > [<img width="25" height="25" src="./icons/tech/js.svg" alt="JavaScript">](https://www.javascript.com/)
@@ -13,6 +13,7 @@
 > [<img width="25" height="25" src="./icons/tech/nodedotjs.svg" alt="nodejs">](https://nodejs.org/ru/)
 > [<img width="25" height="25" src="./icons/tech/webpack.svg" alt="webpack">](https://webpack.js.org/)
 > [<img width="25" height="25" src="./icons/tech/react.svg" alt="react">](https://reactjs.org/)
+> [<img width="25" height="25" src="./icons/tech/typescript.svg" alt="typescript">](https://www.typescriptlang.org/)
 
 [//]: # (> [<img width="25" height="25" src="./icons/tech/redux.svg" alt="redux">]&#40;https://redux.js.org/&#41;)
 [//]: # (> [<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">]&#40;https://autoprefixer.github.io/&#41;)
@@ -23,7 +24,7 @@
 >
 > ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)![Windows](https://img.shields.io/badge/Windows-35358d?style=for-the-badge&logo=windows&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 >
-> ☎ **My contacts:**  
+> ☎ **My contacts:**
 > [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/)
 > [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM)
 > [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com)
@@ -36,14 +37,14 @@
         <img align="left" height="130" style="width: 360px;" src="https://github-readme-stats.vercel.app/api?username=RUS29TAM&hide=contribs&show_icons=true&theme=react" />
    </a>
 </div>
-<!-- 
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)   -->
-<!-- 
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUS29TAM&theme=solarized_dark)   -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)
 ![0_о](https://komarev.com/ghpvc/?username=RUS29TAM)
-> **In detail**    
+> **In detail**
 ![Metrics](https://metrics.lecoq.io/RUS29TAM?template=classic&base.header=0&followup=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&fortune=false&config.timezone=Europe%2FMoscow)
 <!-- <div>
   <a href="https://www.codewars.com/users/RUS29TAM/badges/large" target="_blank">
