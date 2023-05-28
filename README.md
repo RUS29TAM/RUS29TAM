@@ -14,6 +14,8 @@
 > [<img width="25" height="25" src="./icons/tech/webpack.svg" alt="webpack">](https://webpack.js.org/)
 > [<img width="25" height="25" src="./icons/tech/react.svg" alt="react">](https://reactjs.org/)
 > [<img width="25" height="25" src="./icons/tech/typescript.svg" alt="typescript">](https://www.typescriptlang.org/)
+> [<img width="25" height="25" src="./icons/tech/algorithms.svg" alt="jest">](https://the-algorithms.com/ru)
+> [<img width="25" height="25" src="./icons/tech/jest.svg" alt="jest">](https://jestjs.io/ru/)
 
 [//]: # (> [<img width="25" height="25" src="./icons/tech/redux.svg" alt="redux">]&#40;https://redux.js.org/&#41;)
 [//]: # (> [<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">]&#40;https://autoprefixer.github.io/&#41;)
