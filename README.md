@@ -21,6 +21,9 @@
 > [<img width="25" height="25" src="./icons/tech/tailwindcss.svg" alt="tailwindcss">](https://tailwindcss.com/brand)
 > [<img width="25" height="25" src="./icons/tech/docker.svg" alt="docker">](https://www.docker.com/)
 > [<img width="25" height="25" src="./icons/tech/postgresql.svg" alt="postgresql">](https://www.postgresql.org/)
+> [<img width="25" height="25" src="./icons/tech/nextdotjs.svg" alt="nextjs">](https://nextjs.org/)
+> [<img width="25" height="25" src="./icons/tech/nestjs.svg" alt="nestjs">](https://nestjs.com/)
+> [<img width="25" height="25" src="./icons/tech/redux.svg" alt="redux">](https://redux.js.org/)
 
 [//]: # (> [<img width="25" height="25" src="./icons/tech/redux.svg" alt="redux">]&#40;https://redux.js.org/&#41;)
 [//]: # (> [<img width="25" height="25" src="./icons/tech/autoprefixer.svg" alt="autoprefixer">]&#40;https://autoprefixer.github.io/&#41;)
