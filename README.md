@@ -1,5 +1,5 @@
 > [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1500&pause=700&color=6816FF&background=49DEFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+student+faculty+Web%2B+of+the+Yandex+Practicum;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)
-> > ***Links to applications:***       
+> > ***Links to applications I have developed and trained on:***       
 > [Card](https://rus29tam.vercel.app/) - Business card site    
 > [Algorithms](https://algososh-one.vercel.app/) - An application visualizing the principle of operation of JS algorithms    
 > [Stellar burgers](https://stellar-burgers-react.vercel.app/) - A space burger place app.    
