@@ -1,5 +1,28 @@
 > [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1500&pause=700&color=6816FF&background=49DEFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+student+faculty+Web%2B+of+the+Yandex+Practicum;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)
->
+>    
+> > ***Links to applications:***       
+> [Card](https://rus29tam.vercel.app/) - Business card site    
+> [Algorithms](https://algososh-one.vercel.app/) - An application visualizing the principle of operation of JS algorithms    
+> [Stellar burgers](https://stellar-burgers-react.vercel.app/) - A space burger place app.    
+> [Mesto](https://rus29tam.github.io/Mesto-project/) - The app is a service with an interactive page where you can add photos, delete them and give likes.    
+> [Cryptoverse](https://crypto-exchange-black.vercel.app/) - Incomplete application processing cryptocurrency exchange rate data.    
+> [Business landing](https://business-landing-zeta.vercel.app/) - Authorisation required. Application for ANPO Agency for Regional Development of the AR.    
+
+> > ***css style handling:***:    
+> [Background animation ](https://anime-js-background-animation-effects.vercel.app/) - background animation effects using the library.    
+> [Glassmorphism](https://creative-z-index-transition-icon-hover-effects-glassmorphism.vercel.app/) - Z-index transition icon hover effects glassmorphism.    
+> [Loader](https://creative-css-loading-animations-effects.vercel.app/) - CSS loading animations effects.    
+> [Arrow indicator](https://arrow-magic-menu-indicator-using-css-javascript.vercel.app/) - Arrow menu indicator using css js.    
+> [Background effects](https://css-only-animated-background-effects.vercel.app/) - CSS only animated background effects.    
+> [Border animation](https://awesome-css-border-animation.vercel.app/) - CSS border animation.    
+> [Login form](https://glassmorphism-login-form-nine.vercel.app/) - Glassmorphism login form.    
+> [Switcher](https://glassmorphism-login-form-nine.vercel.app/) - Switching buttons.
+
+
+
+
+
+> 
 > ⚙️ **tech stack i'm gnawing on:**
 >
 > [<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">](https://html5book.ru/)
