@@ -21,7 +21,7 @@
 > [Background effects](https://css-only-animated-background-effects.vercel.app/) - CSS only animated background effects.    
 > [Border animation](https://awesome-css-border-animation.vercel.app/) - CSS border animation.    
 > [Login form](https://glassmorphism-login-form-nine.vercel.app/) - Glassmorphism login form.    
-> [Switcher](https://glassmorphism-login-form-nine.vercel.app/) - Switching buttons.
+> [Switcher](https://switcher-tan.vercel.app/) - Switching buttons.
 
 
 
