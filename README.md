@@ -5,7 +5,7 @@
 > [Algorithms](https://algososh-one.vercel.app/) - An application visualizing the principle of operation of JS algorithms    
 > [Stellar burgers](https://stellar-burgers-react.vercel.app/) - A space burger place app.    
 > [Mesto](https://rus29tam.github.io/Mesto-project/) - The app is a service with an interactive page where you can add photos, delete them and give likes.    
-> [Cryptoverse](https://crypto-exchange-black.vercel.app/) - Incomplete application processing cryptocurrency exchange rate data.    
+> [Cryptoverse](https://crypto-exchange-black.vercel.app/) - Not a finished application collecting data on cryptocurrency rates. Taken from youtube.    
 > [Business landing](https://business-landing-zeta.vercel.app/) - Authorisation required. Application for ANPO Agency for Regional Development of the AR.    
 
 > > ***css style handling:***:    
