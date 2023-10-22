@@ -24,8 +24,8 @@
 > [Switcher](https://switcher-tan.vercel.app/) - Switching buttons.    
 > [Cursor](https://text-circled-cursor.vercel.app/) - Animated Circle Text on Mouseover using CSS & React TypeScript.    
 > [Scrolling Animation](https://text-circled-cursor-git-scrolling-rus29tam.vercel.app/) - Infinite Scrolling Animation CSS & React TypeScript.    
-> [Slideshow Animation](https://text-circled-cursor-git-slideshow-rus29tam.vercel.app/) - Infinite Slideshow Animation CSS & React TypeScript.
-
+> [Slideshow Animation](https://text-circled-cursor-git-slideshow-rus29tam.vercel.app/) - Infinite Slideshow Animation CSS & React TypeScript.    
+> [Ripple card](https://text-circled-cursor-git-ripple-card-rus29tam.vercel.app/) - Ripple card animation hover effects CSS & React TypeScript.
 
 
 
