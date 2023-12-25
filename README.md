@@ -28,7 +28,8 @@
 > [Ripple card](https://text-circled-cursor-git-ripple-card-rus29tam.vercel.app/) - Ripple card animation hover effects CSS & React TypeScript.    
 > [Menu hover effects](https://text-circled-cursor-git-menu-rus29tam.vercel.app/) - Menu Hover effects CSS & TypeScript    
 > [Card hover effects](https://text-circled-cursor-git-card-rus29tam.vercel.app/) - Card Hover effects CSS    
-> [Card :not(:hover) effects](https://text-circled-cursor-git-not-hover-rus29tam.vercel.app/) - CSS :not(:hover) Effects animation
+> [Card :not(:hover) effects](https://text-circled-cursor-git-not-hover-rus29tam.vercel.app/) - CSS :not(:hover) Effects animation    
+> [Navbar](https://text-circled-cursor-git-navbar-rus29tam.vercel.app/) - Navbar scroll & hover effects
 
 
 > 
