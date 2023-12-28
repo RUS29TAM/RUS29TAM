@@ -29,7 +29,8 @@
 > [Menu hover effects](https://text-circled-cursor-git-menu-rus29tam.vercel.app/) - Menu Hover effects CSS & TypeScript    
 > [Card hover effects](https://text-circled-cursor-git-card-rus29tam.vercel.app/) - Card Hover effects CSS    
 > [Card :not(:hover) effects](https://text-circled-cursor-git-not-hover-rus29tam.vercel.app/) - CSS :not(:hover) Effects animation    
-> [Navbar](https://text-circled-cursor-git-navbar-rus29tam.vercel.app/) - Navbar scroll & hover effects
+> [Navbar](https://text-circled-cursor-git-navbar-rus29tam.vercel.app/) - Navbar scroll & hover effects    
+> [Glowing cursor](https://text-circled-cursor-git-glowing-rus29tam.vercel.app/) - Glowing cursor & effects random text
 
 
 > 
