@@ -13,7 +13,7 @@
 
 
 
-> > ***css style handling:***:    
+> > ***css style handling:***    
 > [Background animation ](https://anime-js-background-animation-effects.vercel.app/) - background animation effects using the library.    
 > [Glassmorphism](https://creative-z-index-transition-icon-hover-effects-glassmorphism.vercel.app/) - Z-index transition icon hover effects glassmorphism.    
 > [Loader](https://creative-css-loading-animations-effects.vercel.app/) - CSS loading animations effects.    
