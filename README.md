@@ -1,4 +1,4 @@
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1500&pause=700&color=6816FF&background=49DEFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+web+developer;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)
+INI> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1500&pause=700&color=6816FF&background=49DEFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+web+developer;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)
 > > ***Links to applications I have developed and trained on:***       
 > [Card](https://rus29tam.vercel.app/) - Business card site    
 > [Algorithms](https://algososh-one.vercel.app/) - An application visualizing the principle of operation of JS algorithms    
@@ -140,4 +140,4 @@ a running line generator https://readme-typing-svg.herokuapp.com/demo/
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
--->
+-->    
