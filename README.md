@@ -34,7 +34,7 @@
 >
 > ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)![Windows](https://img.shields.io/badge/Windows-35358d?style=for-the-badge&logo=windows&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 >
-> ☎ ***My contacts:***
+> ☎ ***My contacts:***    
 > [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/)
 > [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM)
 > [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com)
@@ -50,9 +50,9 @@
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)   -->
 <!--
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUS29TAM&theme=solarized_dark)   -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUS29TAM&theme=solarized_dark)   -->        
     
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)    
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)        
 ![0_о](https://komarev.com/ghpvc/?username=RUS29TAM)
 > **In detail**    
 ![Metrics](https://metrics.lecoq.io/RUS29TAM?template=classic&base.header=0&followup=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&fortune=false&config.timezone=Europe%2FMoscow)
