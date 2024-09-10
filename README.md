@@ -51,10 +51,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUS29TAM&theme=solarized_dark)   -->
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUS29TAM&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUS29TAM&theme=solarized_dark)   -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)
+    
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUS29TAM&theme=solarized_dark)    
 ![0_о](https://komarev.com/ghpvc/?username=RUS29TAM)
-> **In detail**
+> **In detail**    
 ![Metrics](https://metrics.lecoq.io/RUS29TAM?template=classic&base.header=0&followup=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&fortune=false&config.timezone=Europe%2FMoscow)
 <!-- <div>
   <a href="https://www.codewars.com/users/RUS29TAM/badges/large" target="_blank">
