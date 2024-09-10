@@ -1,39 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1500&pause=700&color=6816FF&background=49DEFF00&center=%D0%BB%D0%BE%D0%B6%D1%8C&vCenter=%D0%BB%D0%BE%D0%B6%D1%8C&width=800&lines=Welcome+to+my+page+bro;I+am+Rus+%2C+a+web+developer;I+have+a+great+desire+to+explore+the+world+of+programming;I+will+be+glad+to+meet+you)](https://git.io/typing-svg)
-> > ***Links to applications I have developed and trained on:***       
-> [Card](https://rus29tam.vercel.app/) - Business card site    
-> [Algorithms](https://algososh-one.vercel.app/) - An application visualizing the principle of operation of JS algorithms    
-> [Stellar burgers](https://stellar-burgers-react.vercel.app/) - A space burger place app.    
-> [Mesto](https://rus29tam.github.io/Mesto-project/) - The app is a service with an interactive page where you can add photos, delete them and give likes.    
-> [Cryptoverse](https://crypto-exchange-black.vercel.app/) - Not a finished application collecting data on cryptocurrency rates. Taken from youtube.    
-> [Business landing](https://business-landing-zeta.vercel.app/) - Authorisation required. Application for ANPO Agency for Regional Development of the AR.    
-> [ShootTheBoss](https://shoot-the-boss.vercel.app/) - Game. Relax and order your boss.    
-> [Tic-Tac-Toe](https://rus29tam.github.io/game-tic-tac-toe/) - Game. Relax play a game of tic-tac-toe.    
-> [Russian travel](https://rus29tam.github.io/Russian-travel/) - One-page website about travelling around Russia.    
-> [How to learn](https://rus29tam.github.io/How-to-learn/) - One-page website about with interactive elements on modern and effective approaches to learning.
 
-
-
-> > ***css style handling:***    
-> [Background animation ](https://anime-js-background-animation-effects.vercel.app/) - background animation effects using the library.    
-> [Glassmorphism](https://creative-z-index-transition-icon-hover-effects-glassmorphism.vercel.app/) - Z-index transition icon hover effects glassmorphism.    
-> [Loader](https://creative-css-loading-animations-effects.vercel.app/) - CSS loading animations effects.    
-> [Arrow indicator](https://arrow-magic-menu-indicator-using-css-javascript.vercel.app/) - Arrow menu indicator using css js.    
-> [Background effects](https://css-only-animated-background-effects.vercel.app/) - CSS only animated background effects.    
-> [Border animation](https://awesome-css-border-animation.vercel.app/) - CSS border animation.    
-> [Login form](https://glassmorphism-login-form-nine.vercel.app/) - Glassmorphism login form.    
-> [Switcher](https://switcher-tan.vercel.app/) - Switching buttons.    
-> [Cursor](https://text-circled-cursor.vercel.app/) - Animated Circle Text on Mouseover using CSS & React TypeScript.    
-> [Scrolling Animation](https://text-circled-cursor-git-scrolling-rus29tam.vercel.app/) - Infinite Scrolling Animation CSS & React TypeScript.    
-> [Slideshow Animation](https://text-circled-cursor-git-slideshow-rus29tam.vercel.app/) - Infinite Slideshow Animation CSS & React TypeScript.    
-> [Ripple card](https://text-circled-cursor-git-ripple-card-rus29tam.vercel.app/) - Ripple card animation hover effects CSS & React TypeScript.    
-> [Menu hover effects](https://text-circled-cursor-git-menu-rus29tam.vercel.app/) - Menu Hover effects CSS & TypeScript    
-> [Card hover effects](https://text-circled-cursor-git-card-rus29tam.vercel.app/) - Card Hover effects CSS & React TypeScript.   
-> [Card :not(:hover) effects](https://text-circled-cursor-git-not-hover-rus29tam.vercel.app/) - CSS :not(:hover) Effects animation CSS & React TypeScript.    
-> [Navbar](https://text-circled-cursor-git-navbar-rus29tam.vercel.app/) - Navbar scroll & hover effects CSS & React TypeScript.   
-> [Glowing cursor](https://text-circled-cursor-git-glowing-rus29tam.vercel.app/) - Glowing cursor & effects random text CSS & React TypeScript.
-
-
-> 
 > ⚙️ **tech stack i'm gnawing on:**
 >
 > [<img width="25" height="25" src="./icons/tech/html5.svg" alt="html5">](https://html5book.ru/)
@@ -68,7 +34,7 @@
 >
 > ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)![Windows](https://img.shields.io/badge/Windows-35358d?style=for-the-badge&logo=windows&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 >
-> ☎ **My contacts:**
+> ☎ ***My contacts:***
 > [<img src="./icons/contacts/discord.svg" width="25px" height="25px">](https://discordapp.com/users/375374301362257920/)
 > [<img src="./icons/contacts/telegram.svg" width="25px" height="25px">](https://t.me/RUS29TAM)
 > [<img src="./icons/contacts/gmail.svg" width="25px" height="25px">](mailto:g9212922232@gmail.com)
@@ -95,6 +61,40 @@
     <img src="https://www.codewars.com/users/RUS29TAM/badges/large" alt="Codewars"/>
   </a>
 </div> -->
+
+> > ***Links to applications I have developed and trained on:***       
+> [Card](https://rus29tam.vercel.app/) - Business card site    
+> [Algorithms](https://algososh-one.vercel.app/) - An application visualizing the principle of operation of JS algorithms    
+> [Stellar burgers](https://stellar-burgers-react.vercel.app/) - A space burger place app.    
+> [Mesto](https://rus29tam.github.io/Mesto-project/) - The app is a service with an interactive page where you can add photos, delete them and give likes.    
+> [Cryptoverse](https://crypto-exchange-black.vercel.app/) - Not a finished application collecting data on cryptocurrency rates. Taken from youtube.    
+> [Business landing](https://business-landing-zeta.vercel.app/) - Authorisation required. Application for ANPO Agency for Regional Development of the AR.    
+> [ShootTheBoss](https://shoot-the-boss.vercel.app/) - Game. Relax and order your boss.    
+> [Tic-Tac-Toe](https://rus29tam.github.io/game-tic-tac-toe/) - Game. Relax play a game of tic-tac-toe.    
+> [Russian travel](https://rus29tam.github.io/Russian-travel/) - One-page website about travelling around Russia.    
+> [How to learn](https://rus29tam.github.io/How-to-learn/) - One-page website about with interactive elements on modern and effective approaches to learning.
+
+
+
+> > ***css style handling:***    
+> [Background animation ](https://anime-js-background-animation-effects.vercel.app/) - background animation effects using the library.    
+> [Glassmorphism](https://creative-z-index-transition-icon-hover-effects-glassmorphism.vercel.app/) - Z-index transition icon hover effects glassmorphism.    
+> [Loader](https://creative-css-loading-animations-effects.vercel.app/) - CSS loading animations effects.    
+> [Arrow indicator](https://arrow-magic-menu-indicator-using-css-javascript.vercel.app/) - Arrow menu indicator using css js.    
+> [Background effects](https://css-only-animated-background-effects.vercel.app/) - CSS only animated background effects.    
+> [Border animation](https://awesome-css-border-animation.vercel.app/) - CSS border animation.    
+> [Login form](https://glassmorphism-login-form-nine.vercel.app/) - Glassmorphism login form.    
+> [Switcher](https://switcher-tan.vercel.app/) - Switching buttons.    
+> [Cursor](https://text-circled-cursor.vercel.app/) - Animated Circle Text on Mouseover using CSS & React TypeScript.    
+> [Scrolling Animation](https://text-circled-cursor-git-scrolling-rus29tam.vercel.app/) - Infinite Scrolling Animation CSS & React TypeScript.    
+> [Slideshow Animation](https://text-circled-cursor-git-slideshow-rus29tam.vercel.app/) - Infinite Slideshow Animation CSS & React TypeScript.    
+> [Ripple card](https://text-circled-cursor-git-ripple-card-rus29tam.vercel.app/) - Ripple card animation hover effects CSS & React TypeScript.    
+> [Menu hover effects](https://text-circled-cursor-git-menu-rus29tam.vercel.app/) - Menu Hover effects CSS & TypeScript    
+> [Card hover effects](https://text-circled-cursor-git-card-rus29tam.vercel.app/) - Card Hover effects CSS & React TypeScript.   
+> [Card :not(:hover) effects](https://text-circled-cursor-git-not-hover-rus29tam.vercel.app/) - CSS :not(:hover) Effects animation CSS & React TypeScript.    
+> [Navbar](https://text-circled-cursor-git-navbar-rus29tam.vercel.app/) - Navbar scroll & hover effects CSS & React TypeScript.   
+> [Glowing cursor](https://text-circled-cursor-git-glowing-rus29tam.vercel.app/) - Glowing cursor & effects random text CSS & React TypeScript.
+
 
 <!--
 **RUS29TAM/RUS29TAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
