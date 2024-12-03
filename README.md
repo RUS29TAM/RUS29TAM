@@ -110,6 +110,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
 visual data generator - https://metrics.lecoq.io/embed
 a running line generator https://readme-typing-svg.herokuapp.com/demo/
 
@@ -141,3 +144,6 @@ a running line generator https://readme-typing-svg.herokuapp.com/demo/
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 -->    
+
+
+
