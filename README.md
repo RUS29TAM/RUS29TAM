@@ -61,7 +61,7 @@
     <img src="https://www.codewars.com/users/RUS29TAM/badges/large" alt="Codewars"/>
   </a>
 </div> -->
-
+<!-- 
 > > ***Links to applications I have developed and trained on:***       
 > [Card](https://rus29tam.vercel.app/) - Business card site    
 > [Algorithms](https://algososh-one.vercel.app/) - An application visualizing the principle of operation of JS algorithms    
